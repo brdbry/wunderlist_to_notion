@@ -1,0 +1,1 @@
+python wunderlist_to_notion.py /Users/alex/Documents/Dropbox/dev/wunderlist_to_notion/Tasks.json

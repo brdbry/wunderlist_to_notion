@@ -1,0 +1,1 @@
+# list of wunderlist list ids to ignore. keeps track of progress. commented lines ignored.
